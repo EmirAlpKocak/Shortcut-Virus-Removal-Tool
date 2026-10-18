@@ -1,0 +1,47 @@
+How to Use Shortcut Virus Removal Tool 2.4.0 (SVRT)
+
+1. Download Shortcut Virus Removal Tool.exe.
+
+2. Connect your infected USB drives.
+
+3. Open Shortcut Virus Removal Tool.
+
+4. The program may show a warning that says you are running this program with user privileges. You can run the program as administrator by right clicking Shortcut Virus Removal Tool.exe and clicking "Run as Administrator". This allows the program to clean shortcut viruses and repair your computer better.
+
+5. Select your USB drive or external HDD/SSD and click "Clean".
+
+6. The program will clean your USB drive and recover your missing hidden files. At this stage, some UAC alerts may show up. Please allow any User Account Control messages.
+
+7. The program will also remove some suspicious files and scripts from your computer. Shortcut viruses usually drops files to %temp%, %appdata% and %localappdata%.
+
+8. The program will ask you to delete script files which includes: *.exe, *.pif, *.cmd, *.bat, *.com, *.scr, *.vbs, *.ps1 and *.vbe. These file types often used in shortcut viruses and they are not common in USB drives. If you have important files with these extensions, please click No to prevent data loss. If not, click Yes.
+
+9. After the operation is completed successfully, the tool will show a message box and open a log file. In the log file you can review which files has been deleted, which files has been recovered etc.
+
+10. After cleaning, your files and USB drive will be free from shortcut virus.
+
+11. Some of the recovered files may be placed inside a folder named as RECOVERED in your USB drive.
+
+12. If cleaning fails, please right click to Shortcut Virus Removal Tool.exe and click "Run as Administrator". Allow UAC prompts if you see any.
+
+13. After cleaning, you can vaccinate your USB from Options->Vaccination->Vaccinate USB. This will block application / script execution from your USB drive. This option is only available in NTFS file system drives. You can remove the vaccination from Options->Vaccination->Remove USB Vaccination.
+
+14. You can also vaccinate your computer from Options->Vaccination->Computer Vaccinated. This will disable Windows Script Host, preventing vbs and js files from running on the computer.. This is not bulletproof as shortcut viruses can also use bat or exe files, but it will block most of them. Please note that this will also block legitimate vbs / js files. You can always click again to disable vaccination. This option requires administrative privileges.
+
+15. You can send me translations, visit the website for more freeware, articles and updates, contact me, download this help file and show the about box from the Options menu.
+
+Currently, Shortcut Virus Removal Tool supports English, German, Turkish, Arabic and Indonesian. The tool automatically detects your computer's language and enables your language if it's supported. You can also select language from the GUI manually.
+
+You can help me with translation via https://deuteriumsoftware.com/translate or Options->Translate at the program. - Thanks for your support!
+
+If you put SVRTlang.json template (you can get from the website) to the same directory as the Shortcut Virus Removal Tool, the application will open in language test mode. It will ask you to enter a language code. You can change any language in the template (for example en to fr) to test your translations. You will simply enter that language code here and the application will find translations from SVRTlang.json and load to the interface. You can use this to test translations before sending them to me.
+
+For bug reports, feature suggestions, suggestions, support, questions, translations, false positive, problems and anything else you can use these to contact me:
+
+Options->Contact at the program.
+
+info@deuteriumsoftware.com
+
+https://deuteriumsoftware.com/contact
+
+https://forms.gle/hcX6sEG1sqdUmYA3A
