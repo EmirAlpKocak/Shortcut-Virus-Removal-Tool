@@ -13,7 +13,7 @@ For your security, please only download Shortcut Virus Removal Tool from trusted
 **OTHER PLACES MAY CONTAIN MALWARE! PLEASE ALWAYS CHECK FILE HASH FROM THE WEBSITE.**
 **THIS IS THE FAKE REPOSITORY: [https://github.com/devfraol/Shortcut-Virus-Removal-Tool](https://github.com/devfraol/Shortcut-Virus-Removal-Tool)**
 
-# Features and Usage
+## Features and Usage
 
 * It can restore files hidden by a virus and remove suspicious shortcuts and files from your USB drive and computer. It can repair registry and undo unwanted changes made by malware.
 
