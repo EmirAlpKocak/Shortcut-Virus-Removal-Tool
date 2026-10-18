@@ -1,7 +1,18 @@
 # Shortcut-Virus-Removal-Tool
 Shortcut Virus Removal Tool is a powerful, portable, easy to use and safe program for fixing USB drives, external HDD / SSD drives and computers infected with shortcut virus. With only one click, you can remove shortcut virus from your computer and USB disk drive.
 
-Shortcut Virus Removal Tool (SVRT)
+# !!! IMPORTANT WARNING
+For your security, please only download Shortcut Virus Removal Tool from trusted places. Such as:
+* EmirAlpKocak GitHub Repository
+* [deuteriumsoftware.com](deuteriumsoftware.com) Official website of the developer.
+* MajorGeeks
+* Softpedia
+* OlderGeeks
+
+**OTHER PLACES MAY CONTAIN MALWARE! PLEASE ALWAYS CHECK FILE HASH FROM THE WEBSITE.**
+**THIS IS THE FAKE REPOSITORY: [https://github.com/devfraol/Shortcut-Virus-Removal-Tool](https://github.com/devfraol/Shortcut-Virus-Removal-Tool)**
+
+# Shortcut Virus Removal Tool (SVRT)
 
 Shortcut Virus Removal Tool is a powerful, portable, easy to use and safe program for fixing USB drives, external HDD / SSD drives and computers infected with shortcut virus. With only one click, you can remove shortcut virus from your computer and USB disk drive.
 
