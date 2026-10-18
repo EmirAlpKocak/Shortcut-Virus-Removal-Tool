@@ -28,6 +28,6 @@ If the tool does not work, please right click and "Run as Administrator."
 
 You can send me translations in JSON format. See how to: [https://deuteriumsoftware.com/translate](https://deuteriumsoftware.com/translate)
 
-The tool currently supports five different languages.
+The tool currently supports five different languages: English, German, Turkish, Arabic and Indonesian.
 
 This tool requires .NET Framework 4.0 and Windows XP or later.
