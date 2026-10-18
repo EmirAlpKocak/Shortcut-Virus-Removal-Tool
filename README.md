@@ -4,7 +4,7 @@ Shortcut Virus Removal Tool is a powerful, portable, easy to use and safe progra
 # !!! IMPORTANT WARNING
 For your security, please only download Shortcut Virus Removal Tool from trusted places. Such as:
 * EmirAlpKocak GitHub Repository
-* [deuteriumsoftware.com](https://deuteriumsoftware.com/software/loginratelimit/) Official website of the developer.
+* [deuteriumsoftware.com](https://deuteriumsoftware.com) Official website of the developer.
 * MajorGeeks
 * Softpedia
 * OlderGeeks
