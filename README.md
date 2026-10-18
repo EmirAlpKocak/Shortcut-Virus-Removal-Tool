@@ -31,3 +31,9 @@ For your security, please only download Shortcut Virus Removal Tool from trusted
 * The tool currently supports five different languages: English, German, Turkish, Arabic and Indonesian.
 
 * This tool requires .NET Framework 4.0 and Windows XP or later.
+
+## Reviews of Einsteins
+
+<img width="559" height="150" alt="Screenshot 2026-10-18 190452" src="https://github.com/user-attachments/assets/4bb230c0-5fd0-4f2c-977a-867d72a1718d" />
+<img width="709" height="164" alt="Screenshot 2026-10-18 190444" src="https://github.com/user-attachments/assets/7b68929f-ba85-413b-b5a6-5af79e95ce9f" />
+
