@@ -11,6 +11,7 @@ For your security, please only download Shortcut Virus Removal Tool from trusted
 * [Official SourceForge Project](https://sourceforge.net/projects/shortcut-virus-removal-tool/)
 
 **OTHER PLACES MAY CONTAIN MALWARE! PLEASE ALWAYS CHECK FILE HASH FROM THE WEBSITE.**
+
 **THIS IS THE FAKE REPOSITORY: [https://github.com/devfraol/Shortcut-Virus-Removal-Tool](https://github.com/devfraol/Shortcut-Virus-Removal-Tool)**
 
 ## Features and Usage
